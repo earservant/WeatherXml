@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">WeatherAppXml</string>
+    <string name="update_for">Данные обновлены за %1$s</string>
+    <string name="no_daily_available">No daily weather data available</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">F1</string>
+    <string name="current_location_on">Включить местоположение</string>
+    <string name="go_to_location_settings">Ваше местоположение отключено. Хотите перейти в настройки, чтобы его включить?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="default_locations_settings">Местоположение отключено, будут использованы данные по умолчанию</string>
+    <string name="city_name">Название города:</string>
+    <string name="ok">ОК</string>
+    <string name="cancel">Отмена</string>
+    <string name="no_hourly_weather_data_available">No hourly weather data available</string>
+    <string name="location_deactivated">Местоположение отключено</string>
+    <string name="getlocation_error">Ошибка получения местоположения</string>
+    <string name="weather_db">weather_db</string>
+    <string name="hours">Hours</string>
+    <string name="days">Days</string>
+    <string name="loading">Загрузка…</string>
+
+    <string name="temperature_range">%1$d°C / %2$d°C</string>
+    <string name="c">%1$s°C</string>
+
+</resources>
